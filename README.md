@@ -39,7 +39,3 @@ This portfolio is continuously updated as I:
 ## 🌍 Deployment
 
 (Add link here once deployed)
-
----
-
-Feel free to explore the code and connect with me.
