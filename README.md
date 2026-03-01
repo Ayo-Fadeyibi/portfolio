@@ -38,4 +38,4 @@ This portfolio is continuously updated as I:
 
 ## 🌍 Deployment
 
-[(Github Link)](https://github.com/Ayo-Fadeyibi)
+[(Github)](https://ayo-fadeyibi.github.io/portfolio/)
